@@ -31,4 +31,6 @@ Ensure the following are installed on your system:
    ```bash
    git clone https://github.com/gauravverma9795/Real-Time-chatApp-Backend.git
    cd CHAT-APP-BACKEND
+   npm install
+   node index.js
 
